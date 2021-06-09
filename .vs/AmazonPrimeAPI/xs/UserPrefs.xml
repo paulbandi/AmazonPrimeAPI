@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D3C1FF4D-23E5-457C-854B-D9E5890B8044}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AmazonPrimeAPI/WeatherForecast.cs">
+    <Files>
+      <File FileName="AmazonPrimeAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="AmazonPrimeAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="AmazonPrimeAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="AmazonPrimeAPI/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AmazonPrimeAPI" expanded="True">
+            <Node name="AmazonPrimeAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="MovieController" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AmazonPrimeAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
